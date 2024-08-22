@@ -9,6 +9,10 @@ This project is a movie recommendation system built using the Kivy framework for
 - **Background Customization**: Includes a customizable background image for enhanced aesthetics.
 - **Recommendation Logic**: Integrates with external services and APIs for fetching movie recommendations.
 - **Cross-Platform Compatibility**: Designed to work on multiple platforms including Windows, macOS, and Linux.
+- **Borderless Design**: The app's design is borderless, allowing for a seamless and immersive user experience.
+- **Minimalist Aesthetic**: It embraces a minimalist approach, focusing on the essential elements and reducing visual clutter.
+- **Transparent and Translucent Buttons**: The buttons are designed with transparency and translucency to blend smoothly with the background, enhancing the overall aesthetic appeal.
+- **Appealing Aesthetic Appeal**: The user interface is crafted with a focus on visual appeal, making it pleasing to the eye while maintaining functionality.
 
 ## Dependencies:
 - Kivy
@@ -24,3 +28,14 @@ This project is a movie recommendation system built using the Kivy framework for
 - Integration with more movie databases.
 - Improved recommendation algorithms.
 - User authentication and personalization features.
+
+## Examples:
+### Search Results for "Mask"
+Below is the result of searching for "Mask" with the top five movie recommendations displayed:
+
+![Search Results for Mask](Screenshot - 1.png)
+
+### Surprise Me Feature - Action Genre
+The following image showcases the surprise feature when the genre "Action" is selected. The system provides a random set of five movie recommendations:
+
+![Action Genre Surprise Me](Screenshot - 2.png)
