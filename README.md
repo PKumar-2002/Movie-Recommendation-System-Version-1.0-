@@ -33,9 +33,9 @@ This project is a movie recommendation system built using the Kivy framework for
 ### Search Results for "Mask"
 Below is the result of searching for "Mask" with the top five movie recommendations displayed:
 
-![alt text](<MOVIE RECOMMADATION/MOVIE RECOMMADATION/Screenshot - 1.png>)
+![alt text](<Screenshot - 1.png>)
 
 ### Surprise Me Feature - Action Genre
 The following image showcases the surprise feature when the genre "Action" is selected. The system provides a random set of five movie recommendations:
 
-![alt text](<MOVIE RECOMMADATION/MOVIE RECOMMADATION/Screenshot - 2.png>)
+![alt text](<Screenshot - 2.png>)
